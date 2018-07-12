@@ -5,9 +5,9 @@
 </head>
 <body>
 <div class="container">
-  <p>Container</p>
+  <!-- <p>Container</p> -->
   @yield('content')
-  <p>Chiusura Container</p>
+  <!-- <p>Chiusura Container</p> -->
 </div>
 @yield('footer')
 </body>
